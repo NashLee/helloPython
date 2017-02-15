@@ -11,3 +11,8 @@ print (calulate.fmz(56))
 print (calulate.fmz(56))
 
 print (calulate.fmz(56))
+
+calulate.fmz(565)
+'''
+these codes is from the master
+'''
