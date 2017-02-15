@@ -7,3 +7,7 @@ Created on 2017年2月14日
 import calulate
 
 print (calulate.fmz(56))
+
+print (calulate.fmz(56))
+
+print (calulate.fmz(56))
