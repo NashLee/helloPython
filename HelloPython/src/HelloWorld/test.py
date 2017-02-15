@@ -15,4 +15,5 @@ print (calulate.fmz(56))
 calulate.fmz(565)
 '''
 these codes is from the master
+these codes from an other person
 '''
