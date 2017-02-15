@@ -11,3 +11,7 @@ print (calulate.fmz(56))
 print (calulate.fmz(56))
 
 print (calulate.fmz(56))
+
+'''
+these codes from an other person
+'''
